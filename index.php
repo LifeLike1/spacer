@@ -177,7 +177,7 @@ curl_close($ch5);
     <tr>
         <th>Kupujesz</th>
         <th>Sprzedajesz</th>
-        <th>Zarobek (wliczone prowizje)</th>
+        <th>Zarobek (wliczone prowizjee)</th>
     </tr>
     <tr>
         <td><?php echo $lowestMarket . $lowestAsk;?></td>
